@@ -8,14 +8,24 @@ Output file link
 
 https://capgemini-my.sharepoint.com/personal/jagadeesan_mohan_capgemini_com/Documents/PP%20Learnings%20(002).xlsx?web=1
 
+Automation
 
 ![Image](https://github.com/user-attachments/assets/4034c0fe-f99b-4050-848c-d15374f20779)
 
+Status file and Hiab
+
 ![Image](https://github.com/user-attachments/assets/7f02f3cc-ab89-4927-ba0a-8c1ece3c24c2)
+
+Kalmar Macgregor
 
 ![Image](https://github.com/user-attachments/assets/74c4b0b8-d268-4dc5-9462-f38741483f7e)
 
+Output
+
 ![Image](https://github.com/user-attachments/assets/5f43db3a-7a5a-4819-83d8-25bcd20520a1)
+
+
+Mail 
 
 ![Image](https://github.com/user-attachments/assets/f8de00b9-46c8-417b-b4b2-dc90fb69e5d3)
 
